@@ -7,10 +7,10 @@ export default function App() {
   return (
     <View style={{ flex: 1 }}>
       <Section backgroundColor="#4285f4">
-        <Text style={{ color: "white" }}>Session #1</Text>
+        <Text style={{ color: "white" }}>Session #2</Text>
       </Section>
       <Section backgroundColor="#ea4335">
-        <Text style={{ color: "white" }}>Intro to React Native</Text>
+        <Text style={{ color: "white" }}>Setup Nativewind + Expo Router</Text>
       </Section>
       <Section backgroundColor="#fbbc04">
         <Text>You clicked {count} times!</Text>
